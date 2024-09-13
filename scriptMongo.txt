@@ -29,3 +29,12 @@ db.produtos.insertMany([
     ativo: true
 }
 ])
+
+
+
+{
+    nome: "Console Sony PS5 + God of War Ragnarök, Branco",
+    descricao: "Experimente o carregamento extremamente rápido do SSD de ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D. Além de uma geração totalmente nova de jogos incríveis. O console PS5 oferece novas possibilidades de jogabilidade que você nunca imaginou.",
+    preco": 4799.99,
+    precoDesconto: 4499.99,
+    categories:["Console","Video-Game"],"tags":["Última-Geração","PS5","PSX","Sony"],"brand":"Sony"}
